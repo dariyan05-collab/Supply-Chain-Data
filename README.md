@@ -104,3 +104,6 @@ The dataset was already largely clean — 0 missing values and 0 duplicate rows 
 - `cleaning_notebook.ipynb` — full Python cleaning process 
 ## Next Steps
 Building a Power BI dashboard to visualize supply chain KPIs (lead times, shipping costs, defect rates) using this cleaned dataset.
+
+<img width="1282" height="725" alt="image" src="https://github.com/user-attachments/assets/014020f1-b92f-4ec1-93d7-12cf29020f67" />
+
